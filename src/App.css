@@ -1,0 +1,19 @@
+.nav{
+  height:6vh;
+  background-color:black;
+  width:inherit;
+}
+.nav-items{
+  display:flex;
+ justify-content:space-evenly;
+ align-items: center;
+}
+.item{
+  border-right:1px solid blue;
+  text-align:center;
+  align-self: center;
+}
+.Link{
+  color:white;
+  text-decoration: none;
+}
